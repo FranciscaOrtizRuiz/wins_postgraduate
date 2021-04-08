@@ -8,7 +8,8 @@ If this is your first time looking into network science, please visit the next r
 
 This document is divided in four topics: 1) How to write your thesis. 2) Resources for academic life. 3) How to write articles, documments, reviews, and others. 4) Conferences and other events about networks. 5) Journals about networks. 6) Twitter accounts.
 
-**1. How to write your thesis.**
+**1. How to write your thesis.**👩🏿
+💻
 
 [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk): General resources for acamic writers. Here you will find examples of how to introduce others work, referring to sources, describing methods, reporting results, discussin findings and writing conclusions. 
 
@@ -24,7 +25,7 @@ This document is divided in four topics: 1) How to write your thesis. 2) Resourc
 
 [Career resources for PhD students - Nature](https://www.nature.com/collections/dhbegcaieb/)
 
-**2. Resources for academic life.**
+**2. Resources for academic life.**🌻
 
 [Graduate programs and training by INSNA.](https://www.insna.org/graduate-programs)
 
@@ -36,7 +37,8 @@ This document is divided in four topics: 1) How to write your thesis. 2) Resourc
 
 [WhisperFest Podcast](https://www.buzzsprout.com/1510516): We want to be the kind of academy we want to see: inclusive, empowered, engaged and kind. #Whisperfest is bought to you by the Whisper Collective: The Research Whisperer team, Tseen Khoo and Jonathan O’Donnell, Narelle Lemon from The Wellbeing Whisperer via Explore & Create Co, and The Thesis Whisperer, Inger Mewburn.
 
-**3. How to write articles, documents, reviews, and others.**
+**3. How to write articles, documents, reviews, and others.**👩🏿
+💻
 
 [Writing an article](https://fish.cgiar.org/getting-published-peer-review-professor-joshua-cinner): The materials are designed and delivered by Professor Joshua Cinner of the Australian Research Council’s Centre of Excellence for Coral Reef Studies, James Cook University. They were produced as part of the science quality and capacity development initiatives under FISH and through the partnership between WorldFish and the Australian Research Council’s Centre of Excellence for Coral Reef Studies, James Cook University. 
 
@@ -44,7 +46,7 @@ This document is divided in four topics: 1) How to write your thesis. 2) Resourc
 
 [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk): General resources for acamic writers. Here you will find examples of how to introduce others work, referring to sources, describing methods, reporting results, discussin findings and writing conclusions. 
 
-**4. Conferences and other events about networks.**
+**4. Conferences and other events about networks.**🔭 
 
 [WiNS Seminars 2020-21 information](https://aliceschwarze.gitlab.io/winsseminar.html)
 
@@ -58,7 +60,7 @@ This document is divided in four topics: 1) How to write your thesis. 2) Resourc
 
 [Webpage EUSN 2021 Conference](http://www.eusn2021.unina.it)
 
-**5. Journals about networks.**
+**5. Journals about networks.**💬
 
 [Social Networks. An International Journal of Structural Analysis.](https://www.journals.elsevier.com/social-networks)
 
@@ -70,7 +72,7 @@ This document is divided in four topics: 1) How to write your thesis. 2) Resourc
 
 [REDES. Revista Hispana para el análisis de redes sociales.](https://revistes.uab.cat/redes/index)
 
-**6. Twitter accounts.**
+**6. Twitter accounts.**📫 
 
 [WiNS](https://twitter.com/WiNS_Society)
 
