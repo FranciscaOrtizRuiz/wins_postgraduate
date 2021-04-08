@@ -4,11 +4,21 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# WiNS Postgraduate repository
+<!-- badges: start -->
+
+[![CRAN
+status](https://www.r-pkg.org/badges/version/classicnets)](https://CRAN.R-project.org/package=classicnets)
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![License: GPL
+v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+<!-- badges: end -->
+
+# WiNS Postgraduate repository <img src="imag/sticker.jpg" align="right" width="180px"/>
 
 In this repository you will find useful resources for Women in Network Sciences (WiNS) during their postgraduates.  
 
-**Repository maintain by Postgraduate Committe of WiNS council**. If you would like to add information, or suggest some changes, please contact Francisca Ortiz (Postgraduate rep) by email: **franortizruiz@gmail.com**. 
+🖊 Author/Maintainer: **Repository maintain by Postgraduate Committe of WiNS council**. If you would like to add information, or suggest some changes, please contact Francisca Ortiz (Postgraduate rep) by email: **franortizruiz@gmail.com**. 
 
 If this is your first time looking into network science, please visit the next respository ["Starting with networks"](https://github.com/FranciscaOrtizRuiz/wins_startingwithnetworks)
 
