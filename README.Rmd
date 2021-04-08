@@ -4,16 +4,6 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-<!-- badges: start -->
-
-[![CRAN
-status](https://www.r-pkg.org/badges/version/classicnets)](https://CRAN.R-project.org/package=classicnets)
-[![Lifecycle:
-experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
-[![License: GPL
-v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-<!-- badges: end -->
-
 # WiNS Postgraduate repository <img src="imag/sticker.jpg" align="right" width="180px"/>
 
 In this repository you will find useful resources for Women in Network Sciences (WiNS) during their postgraduates.  
