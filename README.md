@@ -15,7 +15,7 @@ If this is your first time looking into network science, please visit
 the next respository [“Starting with
 networks”](https://github.com/FranciscaOrtizRuiz/wins_startingwithnetworks)
 
-This document is divided in four topics: 1) How to write your thesis. 2)
+This document is divided in six topics: 1) How to write your thesis. 2)
 Resources for academic life. 3) How to write articles, documments,
 reviews, and others. 4) Conferences and other events about networks. 5)
 Journals about networks. 6) Twitter accounts.
