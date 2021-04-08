@@ -70,7 +70,7 @@ This document is divided in four topics: 1) How to write your thesis. 2) Resourc
 
 [REDES. Revista Hispana para el análisis de redes sociales.](https://revistes.uab.cat/redes/index)
 
-##6. Twitter accounts.📫 
+##6. Twitter accounts. 📫 
 
 [WiNS](https://twitter.com/WiNS_Society)
 
