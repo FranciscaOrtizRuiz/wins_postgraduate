@@ -75,6 +75,9 @@ Research Whisperer team, Tseen Khoo and Jonathan O’Donnell, Narelle
 Lemon from The Wellbeing Whisperer via Explore & Create Co, and The
 Thesis Whisperer, Inger Mewburn.
 
+[Tips of how to
+peer-reviewing](https://www.two-cells.com/post/quick-and-essential-tips-to-peer-reviewing)
+
 ## 3\. How to write articles, documents, reviews, and others. 💻
 
 [Writing an
