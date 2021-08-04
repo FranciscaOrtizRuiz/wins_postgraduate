@@ -8,8 +8,6 @@ output: github_document
 
 In this repository you will find useful resources for Women in Network Sciences (WiNS) during their postgraduates.  
 
-🖊 Author/Maintainer: **Repository maintain by Postgraduate Committe of WiNS council**. If you would like to add information, or suggest some changes, please contact Francisca Ortiz (Postgraduate rep) by email: **franortizruiz@gmail.com**. 
-
 If this is your first time looking into network science, please visit the next respository ["Starting with networks"](https://github.com/FranciscaOrtizRuiz/wins_startingwithnetworks)
 
 This document is divided in six topics: 1) How to write your thesis. 2) Resources for academic life. 3) How to write articles, documments, reviews, and others. 4) Conferences and other events about networks. 5) Journals about networks. 6) Twitter accounts.
@@ -86,4 +84,6 @@ This document is divided in six topics: 1) How to write your thesis. 2) Resource
 
 [INSNA](https://twitter.com/SocNetAnalysts)
 
+-----
 
+Author/Maintainer: **Repository maintain by Postgraduate Committe of WiNS council**. If you would like to add information, or suggest some changes, please contact Francisca Ortiz (Postgraduate rep) by email: **franortizruiz@gmail.com**. 

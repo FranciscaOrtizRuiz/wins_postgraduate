@@ -6,11 +6,6 @@
 In this repository you will find useful resources for Women in Network
 Sciences (WiNS) during their postgraduates.
 
-🖊 Author/Maintainer: **Repository maintain by Postgraduate Committe of
-WiNS council**. If you would like to add information, or suggest some
-changes, please contact Francisca Ortiz (Postgraduate rep) by email:
-**<franortizruiz@gmail.com>**.
-
 If this is your first time looking into network science, please visit
 the next respository [“Starting with
 networks”](https://github.com/FranciscaOrtizRuiz/wins_startingwithnetworks)
@@ -142,3 +137,10 @@ sociales.](https://revistes.uab.cat/redes/index)
 [Network Science Society](https://twitter.com/netscisociety)
 
 [INSNA](https://twitter.com/SocNetAnalysts)
+
+-----
+
+Author/Maintainer: **Repository maintain by Postgraduate Committe of
+WiNS council**. If you would like to add information, or suggest some
+changes, please contact Francisca Ortiz (Postgraduate rep) by email:
+**<franortizruiz@gmail.com>**.
